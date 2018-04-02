@@ -1,0 +1,8 @@
+com\bindstone\collector\tools\Report.class
+com\bindstone\collector\service\impl\NeoServiceImpl.class
+com\bindstone\collector\service\impl\JiraConnectionServiceImpl.class
+com\bindstone\collector\service\NeoService.class
+com\bindstone\collector\nodefactory\IssueNodeFactory.class
+com\bindstone\collector\service\JiraConnectionService.class
+com\bindstone\collector\CollectorApplication.class
+com\bindstone\collector\CollectorRunner.class
