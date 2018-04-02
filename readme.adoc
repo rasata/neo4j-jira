@@ -25,7 +25,4 @@ http://www.graphenedb.com/[GraphenDB] Neo4j Cloud Graph Database.
 
 == Example of Graph data view
 Use the Neo4j browser: http://localhost:7474/browser/
-image:https://github.com/bindstone/collector-poc/blob/master/src/main/asciidoc/images/overview.png[]
-
-== Hint
 For this implementation I used https://github.com/Wolfgang-Schuetzelhofer/jcypher[JCypher]. Alternatives could be http://projects.spring.io/spring-data-neo4j[Spring Data Neo4j] or https://github.com/neo4j-contrib/neo4j-jdbc[neo4j-jdbc] combined with as example http://www.mybatis.org/mybatis-3/[MyBatis]. Look on https://neo4j.com/developer/java/[Using Neo4j from Java].
